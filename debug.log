@@ -1,0 +1,67 @@
+Error during user login: 'User' object has no attribute 'users'
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object is not subscriptable
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: anuj in database
+Creating new user: {'user_id': 'cf9b062e-a457-4e4f-94d8-d14469e3242a', 'username': 'anuj', 'password': '$2b$12$7jE0OlBAH3VEhYgF9lv3IOlB9JVsV.IhNONFM46GdeE.mCE/.7bEC', 'created_at': '2024-11-28T17:02:01.442353'}
+User 'anuj' registered successfully.
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: anuj in database
+Registration failed: User 'anuj' already exists.
+Error during user registration: 400: User already exists
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'user'
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: anuwj in database
+Creating new user: {'user_id': 'c568fa1a-7abe-4d06-b5b2-b42980fbc10e', 'username': 'anuwj', 'password': '$2b$12$UsGpYFKD1FR6306dK8dbKOnMBkkdY4hpc8S..K6TWaazNRf0Nhj1K', 'created_at': '2024-11-28T17:14:28.627104'}
+User 'anuwj' registered successfully.
+Looking for user: AsyncIOMotorCollection(Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=False, driver=DriverInfo(name='Motor', version='3.6.0', platform='asyncio')), 'taskdb'), 'username')) in database
+Error during user login: 'User' object has no attribute 'users'
+Error during user login: 'User' object has no attribute 'users'
+Looking for user: anuj in database
+Login failed for user 'anuj': Invalid credentials.
+Error during user login: 401: Invalid credentials
+Looking for user: anuj in database
+Login failed for user 'anuj': Invalid credentials.
+Error during user login: 401: Invalid credentials
+Looking for user: anuj1 in database
+Creating new user: {'user_id': '5c2a55f2-d447-4603-af8d-011f9b3cc3c9', 'username': 'anuj1', 'password': '$2b$12$65OzqC0Gwqr7VkeZ/lQ7e.4HRjpCDMKth6Rl40WBFbf/66DiYIjp6', 'created_at': '2024-11-28T17:24:37.878504'}
+User 'anuj1' registered successfully.
+Looking for user: anuj1 in database
+User 'anuj1' logged in successfully.
+Looking for user: arpit in database
+Creating new user: {'user_id': 'd995d36f-c6b1-4c60-9929-90eb94cae194', 'username': 'arpit', 'password': '$2b$12$VXu/XUbFlnbQjBs7A1gi2eJAorQjlNHfQ9kcD7yY6seTQ13cgaZcm', 'created_at': '2024-11-29T10:55:24.756391'}
+User 'arpit' registered successfully.
+Looking for user: arpit in database
+Error during user login: Error 111 connecting to localhost:6379. Connection refused.
+Looking for user: arpit in database
+Error during user login: Error 111 connecting to localhost:6379. Connection refused.
+Looking for user: arpit in database
+User 'arpit' logged in successfully.
+Error during user logout : 'str' object has no attribute 'get'
+Error during user logout : 'User' object has no attribute 'state'
+Error during user logout : 'User' object has no attribute 'state'
+Error during user logout : 'User' object has no attribute 'state'
+Error during user logout : 'User' object has no attribute 'state'
+User 'd995d36f-c6b1-4c60-9929-90eb94cae194' logging out
+Looking for user: anuj1 in database
+User 'anuj1' logged in successfully.
+Looking for user: anuj1 in database
+User 'anuj1' logged in successfully.
+User '5c2a55f2-d447-4603-af8d-011f9b3cc3c9' logging out
