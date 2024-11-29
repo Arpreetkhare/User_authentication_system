@@ -30,8 +30,8 @@ To install the application and its dependencies, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd <your-project-folder>
+   git clone https://github.com/Arpreetkhare/User_authentication_system.git
+   cd TASK-ARPREET-KHARE
 
 2. **Set up a virtual environment:**
      ```bash
