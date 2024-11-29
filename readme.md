@@ -20,7 +20,7 @@ The application is designed with modularity in mind, and it includes services fo
 | **Route**            | **Method** | **Description**                                             |
 |----------------------|------------|-------------------------------------------------------------|
 | `/register`          | POST       | Registers a new user.                                       | 
-| `/login`             | POST       | Logs in an existing user and returns a JWT token.           | |`/logout`             | POST       | Logs out the authenticated user by invalidating their token.|
+| `/login`             | POST       | Logs in an existing user and returns a JWT token.           | | `/logout`            | POST       | Logs out the authenticated user by invalidating their token.|
 
 
 
